@@ -1,0 +1,9 @@
+main:
+  - title: "Guia GAC Brasil"
+    url: /
+
+side_menu:
+  - title: "AION V"
+    url: /aion-v/
+  - title: "AION Y"
+    url: /aion-y/

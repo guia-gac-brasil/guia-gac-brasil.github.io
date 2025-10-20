@@ -1,0 +1,16 @@
+<link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}" id="theme_source">
+
+<link rel="stylesheet alternate" href="{{ '/assets/css/theme2.css' | relative_url }}" id="theme_source_2">
+
+<script>
+  let defaultTheme = document.getElementById('theme_source');
+  let secondaryTheme = document.getElementById('theme_source_2');
+  let storedTheme = sessionStorage.getItem('theme');
+
+  if (storedTheme === "dark") {
+    // Switch the rel attributes to apply dark theme
+    defaultTheme.setAttribute('rel', 'stylesheet alternate');
+    secondaryTheme.setAttribute('rel', 'stylesheet');
+  } 
+  // else: The default theme is already applied (rel="stylesheet")
+</script>
