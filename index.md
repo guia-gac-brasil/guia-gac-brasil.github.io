@@ -1,7 +1,5 @@
 ---
-layout: splash
-title: "Guia GAC Brasil"
-permalink: /
+layout: single
 ---
 
 # Guia Colaborativo GAC Brasil
