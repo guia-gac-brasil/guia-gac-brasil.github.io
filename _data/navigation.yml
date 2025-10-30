@@ -5,3 +5,8 @@ side_menu:
     url: /aion-v/
   - title: "AION Y"
     url: /aion-y/
+    children: 
+      - title: "Funcionalidades e Versões"
+      url: /aion-y/funcionalidades/
+      - title: "Acessórios"
+      url: /aion-y/acessorios/
