@@ -10,3 +10,5 @@ side_menu:
       url: /aion-y/funcionalidades/
       - title: "Acessórios"
       url: /aion-y/acessorios/
+  - title: "Acessórios comuns"
+    url: /acessorios-comuns/
