@@ -6,9 +6,11 @@ side_menu:
   - title: "AION Y"
     url: /aion-y/
     children: 
-      - title: "Funcionalidades e Versões"
-        url: /aion-y/funcionalidades/
       - title: "Acessórios"
         url: /aion-y/acessorios/
+      - title: "Lista de desejos"
+        url: /aion-y/desejos/
+      - title: "Funcionalidades e Versões"
+        url: /aion-y/funcionalidades/
   - title: "Acessórios comuns"
     url: /acessorios-comuns.html
