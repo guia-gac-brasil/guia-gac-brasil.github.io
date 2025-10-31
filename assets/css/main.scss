@@ -1,0 +1,19 @@
+/* Light mode alternating rows */
+@media (prefers-color-scheme: light), (prefers-color-scheme: no-preference) {
+  table tr:nth-child(odd) {
+    background-color: #f7f7f7; /* light gray for odd rows */
+  }
+  table tr:nth-child(even) {
+    background-color: #ffffff; /* white for even rows */
+  }
+}
+
+/* Dark mode alternating rows */
+@media (prefers-color-scheme: dark) {
+  table tr:nth-child(odd) {
+    background-color: #2a2a2a; /* darker gray for odd rows */
+  }
+  table tr:nth-child(even) {
+    background-color: #1a1a1a; /* even darker for even rows */
+  }
+}
