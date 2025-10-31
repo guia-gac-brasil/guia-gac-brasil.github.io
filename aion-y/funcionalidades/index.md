@@ -3,7 +3,7 @@ layout: single
 title: Funcionalidades do AION Y
 ---
 
-Funcionalidades, características e itens faltantes específicos do AION Y vendido no Brasil.
+Funcionalidades e características específicos do AION Y vendido no Brasil.
 
 # Funcionalidades e Características do AION Y
 
@@ -111,10 +111,3 @@ Funcionalidades, características e itens faltantes específicos do AION Y vendi
 | Piloto automático                                        | Não        | Sim        |
 | Piloto automático adaptativo (ACC)                       | Sim        | Não        |
 | Piloto automático integrado (ICA)                        | Sim        | Não        |
-
-
----
-
-### 🔧 Funcionalidades Desejadas (Itens Faltantes)
-
-* **CarPlay e Android Auto sem fio:** Atualmente o uso da funcionalidade depende do uso do cabo USB
