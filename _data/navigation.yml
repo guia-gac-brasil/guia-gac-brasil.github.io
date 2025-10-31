@@ -7,8 +7,8 @@ side_menu:
     url: /aion-y/
     children: 
       - title: "Funcionalidades e Versões"
-      url: /aion-y/funcionalidades/
+        url: /aion-y/funcionalidades/
       - title: "Acessórios"
-      url: /aion-y/acessorios/
+        url: /aion-y/acessorios/
   - title: "Acessórios comuns"
     url: /acessorios-comuns/
