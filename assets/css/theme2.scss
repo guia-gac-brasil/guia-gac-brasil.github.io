@@ -4,3 +4,14 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin2 }}";
 @import "minimal-mistakes";
+
+// Add alternating row colors ("zebra striping") to tables
+table {
+  tbody {
+    // Target every even-numbered row in the table body
+    tr:nth-child(even) {
+    // This will use the LIGHT skin's $background-color variable
+      background-color: darken($background-color, 5%);
+    }
+  }
+}
