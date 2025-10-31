@@ -8,6 +8,7 @@ Funcionalidades, características e itens faltantes específicos do AION Y vendi
 ## Funcionalidades e Características do AION Y
 
 ## Exterior
+
 | Característica | Elite | Premium |
 | :--- | :---: | :---: |
 | Destravamento elétrico das portas | Sim | Sim |
@@ -28,32 +29,32 @@ Funcionalidades, características e itens faltantes específicos do AION Y vendi
 | Teto solar panorâmico e cortina com acionamento elétrico | Sim | Sim |
 
 ## Interior
-| Característica                                  | Elite                | Premium          |
-|-------------------------------------------------|----------------------|------------------|
-| Ar condicionado automático                      | Sim                  | Sim              |
-| Filtro de ar (PM 2.5)                           | Sim                  | Sim              |
-| Saída de ar para traseiros                      | Sim                  | Sim              |
-| **Banco do passageiro com ajustes manuais (4 posições)** | Sim        | Não              |
-| Banco do motorista com ajustes elétricos (6 posições)    | Sim        | Sim              |
-| **Banco do motorista com ventilação**           | Sim                  | Não              |
-| **Banco do passageiro com ajustes elétricos (4 posições)** | Sim      | Não              |
-| Banco traseiro com apoio de braço central, porta-copos e encosto bipartido (40/60) | Sim | Sim |
-| Bancos com revestimento premium sustentável     | Sim                  | Sim              |
-| Encostos dos bancos dianteiros totalmente reclináveis | Sim          | Sim              |
-| **Espelho retrovisor interno fotocromático**    | Sim                  | Não              |
-| I-pedal (pedal de acelerador eletrônico)        | Sim                  | Sim              |
-| Keyless entry (destravamento e travamento sem chave) | Sim        | Sim              |
-| Lâmpada para iluminação do porta-malas          | Sim                  | Sim              |
-| Luzes ambientes                                | Sim                  | Sim              |
-| Luzes de leitura dianteiras e traseiras em LED  | Sim                  | Sim              |
-| Quebra sol com espelho e iluminação             | Sim                  | Sim              |
-| Tomada 12V no console central                   | Sim                  | Sim              |
-| Entrada USB no espelho retrovisor interno       | Sim                  | Sim              |
-| Entrada USB dianteira (1x tipo A)               | Sim                  | Sim              |
-| Entrada USB traseira (1x tipo A)                | Sim                  | Sim              |
-| Vidros dianteiros e traseiros elétricos         | Sim                  | Sim              |
-| Volante com revestimento premium sustentável    | Sim                  | Sim              |
-| Volante multifuncional                         | Sim                  | Sim              |
+| Característica                                                                     | Elite                | Premium          |
+|------------------------------------------------------------------------------------|----------------------|------------------|
+| Ar condicionado automático                                                         | Sim                  | Sim              |
+| Filtro de ar (PM 2.5)                                                              | Sim                  | Sim              |
+| Saída de ar para traseiros                                                         | Sim                  | Sim              |
+| **Banco do passageiro com ajustes manuais (4 posições)**                           | Sim                  | Não              |
+| Banco do motorista com ajustes elétricos (6 posições)                              | Sim                  | Sim              |
+| **Banco do motorista com ventilação**                                              | Sim                  | Não              |
+| **Banco do passageiro com ajustes elétricos (4 posições)**                         | Sim                  | Não              |
+| Banco traseiro com apoio de braço central, porta-copos e encosto bipartido (40/60) | Sim                  | Sim              |
+| Bancos com revestimento premium sustentável                                        | Sim                  | Sim              |
+| Encostos dos bancos dianteiros totalmente reclináveis                              | Sim                  | Sim              |
+| **Espelho retrovisor interno fotocromático**                                       | Sim                  | Não              |
+| I-pedal (pedal de acelerador eletrônico)                                           | Sim                  | Sim              |
+| Keyless entry (destravamento e travamento sem chave)                               | Sim                  | Sim              |
+| Lâmpada para iluminação do porta-malas                                             | Sim                  | Sim              |
+| Luzes ambientes                                                                    | Sim                  | Sim              |
+| Luzes de leitura dianteiras e traseiras em LED                                     | Sim                  | Sim              |
+| Quebra sol com espelho e iluminação                                                | Sim                  | Sim              |
+| Tomada 12V no console central                                                      | Sim                  | Sim              |
+| Entrada USB no espelho retrovisor interno                                          | Sim                  | Sim              |
+| Entrada USB dianteira (1x tipo A)                                                  | Sim                  | Sim              |
+| Entrada USB traseira (1x tipo A)                                                   | Sim                  | Sim              |
+| Vidros dianteiros e traseiros elétricos                                            | Sim                  | Sim              |
+| Volante com revestimento premium sustentável                                       | Sim                  | Sim              |
+| Volante multifuncional                                                             | Sim                  | Sim              |
 
 ## Tecnologia e Entretenimento
 | Característica                                    | Elite      | Premium    |
