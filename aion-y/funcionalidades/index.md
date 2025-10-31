@@ -5,30 +5,32 @@ title: Funcionalidades do AION Y
 
 Funcionalidades, características e itens faltantes específicos do AION Y vendido no Brasil.
 
-## Funcionalidades e Características do AION Y
+# Funcionalidades e Características do AION Y
 
 ## Exterior
 
-| Característica | Elite | Premium |
-| :--- | :---: | :---: |
-| Destravamento elétrico das portas | Sim | Sim |
-| Espelhos retrovisores externos elétricos, retráteis com desembaçador | Sim | Sim |
-| Espelhos retrovisores externos com luzes indicadoras de direção | Sim | Sim |
-| **Faróis altos inteligentes** | Sim | Não |
-| Faróis com acendimento automático | Sim | Sim |
-| Faróis em LED | Sim | Sim |
-| Lanternas traseiras em LED | Sim | Sim |
-| Lanternas traseiras integradas em LED | Sim | Sim |
-| Limpador de vidro traseiro | Sim | Sim |
-| Luz de neblina traseira em LED | Sim | Sim |
-| Luzes de rodagem diurna em LED (DRL) | Sim | Sim |
-| Maçanetas retráteis | Sim | Sim |
-| Rack de teto | Sim | Sim |
-| Sensor de chuva | Sim | Sim |
-| **Tampa do porta-malas com abertura e fechamento elétricos** | Sim | Não |
-| Teto solar panorâmico e cortina com acionamento elétrico | Sim | Sim |
+| Característica                                           | Elite      | Premium    |
+|----------------------------------------------------------|------------|------------|
+| Destravamento elétrico das portas                        | Sim        | Sim        |
+| Espelhos retrovisores externos elétricos, retráteis com desembaçador | Sim        | Sim        |
+| Espelhos retrovisores externos com luzes indicadoras de direção | Sim        | Sim        |
+| **Faróis altos inteligentes**                            | Sim        | Não        |
+| Faróis com acendimento automático                        | Sim        | Sim        |
+| Faróis em LED                                            | Sim        | Sim        |
+| Lanternas traseiras em LED                               | Sim        | Sim        |
+| Lanternas traseiras integradas em LED                    | Sim        | Sim        |
+| Limpador de vidro traseiro                               | Sim        | Sim        |
+| Luz de neblina traseira em LED                           | Sim        | Sim        |
+| Luzes de rodagem diurna em LED (DRL)                     | Sim        | Sim        |
+| Maçanetas retráteis                                      | Sim        | Sim        |
+| Rack de teto                                             | Sim        | Sim        |
+| Sensor de chuva                                          | Sim        | Sim        |
+| **Tampa do porta-malas com abertura e fechamento elétricos** | Sim    | Não        |
+| Teto solar panorâmico e cortina com acionamento elétrico | Sim        | Sim        |
+
 
 ## Interior
+
 | Característica                                                                     | Elite                | Premium          |
 |------------------------------------------------------------------------------------|----------------------|------------------|
 | Ar condicionado automático                                                         | Sim                  | Sim              |
@@ -56,7 +58,9 @@ Funcionalidades, características e itens faltantes específicos do AION Y vendi
 | Volante com revestimento premium sustentável                                       | Sim                  | Sim              |
 | Volante multifuncional                                                             | Sim                  | Sim              |
 
+
 ## Tecnologia e Entretenimento
+
 | Característica                                    | Elite      | Premium    |
 |---------------------------------------------------|------------|------------|
 | 6 alto-falantes                                   | Sim        | Sim        |
@@ -72,7 +76,9 @@ Funcionalidades, características e itens faltantes específicos do AION Y vendi
 | Sistema de partida sem chave                      | Sim        | Sim        |
 | **V2L (Vehicle-to-Load)**                         | Sim        | Não        |
 
+
 ## Segurança
+
 | Característica                                     | Elite      | Premium    |
 |----------------------------------------------------|------------|------------|
 | ABS                                                | Sim        | Sim        |
@@ -92,7 +98,9 @@ Funcionalidades, características e itens faltantes específicos do AION Y vendi
 | Sistema de monitoramento de pressão dos pneus (TPMS)| Sim        | Sim        |
 | Sistema de regeneração de energia em frenagens     | Sim        | Sim        |
 
+
 ## Sistema Avançado de auxílio ao motorista (ADAS)
+
 | Característica                                            | Elite      | Premium    |
 |-----------------------------------------------------------|------------|------------|
 | Alerta de colisão frontal (FCW)                          | Sim        | Não        |
