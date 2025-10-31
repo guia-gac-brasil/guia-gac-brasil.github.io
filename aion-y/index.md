@@ -11,8 +11,7 @@ title: AION Y
 ## [👀 Lista de desejos](desejos/)
 > Funcionalidades que não tem no carro, mas que são desejáveis.
 
-## [💡 Dicas e Truques do Modelo](dicas/)
-> Dicas que se aplicam ao dia a dia com o AION Y, como configurações da central multimídia, dicas de carregamento e mais.
+<!-- ## [💡 Dicas e Truques do Modelo](dicas/) > Dicas que se aplicam ao dia a dia com o AION Y, como configurações da central multimídia, dicas de carregamento e mais. -->
 
 ## [⚙️ Funcionalidades e Versões](funcionalidades/)
 > Um detalhamento completo das características de cada versão, o que elas têm em comum.
