@@ -18,10 +18,7 @@ Conteúdo que se aplica a vários modelos da marca.
 ## Guias por Modelo
 
 Selecione o seu veículo para ver informações específicas:
-<!--
-### [GAC AION V](aion-v/)
-* SUV 100% elétrico
--->
+<!-- ### [GAC AION V](aion-v/) * SUV 100% elétrico -->
 
 ### [GAC AION Y](aion-y/)
 * Minivan 100% elétrica com dois modelos: Premium e Elite.
