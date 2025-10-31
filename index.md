@@ -10,8 +10,8 @@ A base de conhecimento colaborativa para proprietários e entusiastas dos veícu
 
 Conteúdo que se aplica a vários modelos da marca.
 
-* **[Dicas Comuns para todos os modelos](dicas-comuns.md)**
-* **[Acessórios Universais (Carregadores, etc.)](acessorios-comuns.md)**
+<!-- * **[Dicas Comuns para todos os modelos](dicas-comuns.md)** -->
+* **[Acessórios Universais (Carregadores, etc.)](acessorios-comuns.html)**
 
 ---
 
