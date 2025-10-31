@@ -3,7 +3,7 @@
 ---
 
 // Import the Minimal Mistakes theme and skin
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | site.minimal_mistakes_skin2 | default: 'default' }}";
 @import "minimal-mistakes";
 
 /* * Your custom styles
