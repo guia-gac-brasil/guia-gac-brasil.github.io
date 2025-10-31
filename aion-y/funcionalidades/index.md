@@ -8,24 +8,24 @@ Funcionalidades, características e itens faltantes específicos do AION Y vendi
 ## Funcionalidades e Características do AION Y
 
 ## Exterior
-| Característica                                           | Elite      | Premium    |
-|----------------------------------------------------------|------------|------------|
-| Destravamento elétrico das portas                        | Sim        | Sim        |
-| Espelhos retrovisores externos elétricos, retráteis com desembaçador | Sim        | Sim        |
-| Espelhos retrovisores externos com luzes indicadoras de direção | Sim        | Sim        |
-| **Faróis altos inteligentes**                            | Sim        | Não        |
-| Faróis com acendimento automático                        | Sim        | Sim        |
-| Faróis em LED                                            | Sim        | Sim        |
-| Lanternas traseiras em LED                               | Sim        | Sim        |
-| Lanternas traseiras integradas em LED                    | Sim        | Sim        |
-| Limpador de vidro traseiro                               | Sim        | Sim        |
-| Luz de neblina traseira em LED                           | Sim        | Sim        |
-| Luzes de rodagem diurna em LED (DRL)                     | Sim        | Sim        |
-| Maçanetas retráteis                                      | Sim        | Sim        |
-| Rack de teto                                             | Sim        | Sim        |
-| Sensor de chuva                                          | Sim        | Sim        |
-| **Tampa do porta-malas com abertura e fechamento elétricos** | Sim    | Não        |
-| Teto solar panorâmico e cortina com acionamento elétrico | Sim        | Sim        |
+| Característica | Elite | Premium |
+| :--- | :---: | :---: |
+| Destravamento elétrico das portas | Sim | Sim |
+| Espelhos retrovisores externos elétricos, retráteis com desembaçador | Sim | Sim |
+| Espelhos retrovisores externos com luzes indicadoras de direção | Sim | Sim |
+| **Faróis altos inteligentes** | Sim | Não |
+| Faróis com acendimento automático | Sim | Sim |
+| Faróis em LED | Sim | Sim |
+| Lanternas traseiras em LED | Sim | Sim |
+| Lanternas traseiras integradas em LED | Sim | Sim |
+| Limpador de vidro traseiro | Sim | Sim |
+| Luz de neblina traseira em LED | Sim | Sim |
+| Luzes de rodagem diurna em LED (DRL) | Sim | Sim |
+| Maçanetas retráteis | Sim | Sim |
+| Rack de teto | Sim | Sim |
+| Sensor de chuva | Sim | Sim |
+| **Tampa do porta-malas com abertura e fechamento elétricos** | Sim | Não |
+| Teto solar panorâmico e cortina com acionamento elétrico | Sim | Sim |
 
 ## Interior
 | Característica                                  | Elite                | Premium          |
