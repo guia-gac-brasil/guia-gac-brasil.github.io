@@ -8,8 +8,10 @@ Os bancos do motorista e do carona podem ser inclinados até ficarem na horizont
 
 {% include video id="RsqAbaWESbk" provider="youtube" aspect_ratio="9:16" %}
 
+
 # Cálculo de autonomia
 Baseado no consumo médio e na bateria de 63,2kWh, é possível estimar a autonomia.
+
 | Consumo médio (kWh/100km) | Autonomia calculada (km) |
 | :---: | :---: |
 | 23 | 274 |
@@ -20,6 +22,7 @@ Baseado no consumo médio e na bateria de 63,2kWh, é possível estimar a autono
 | 18 | 351 |
 | 17 | 371 |
 | 16 | 395 |
+
 
 # Manuais
 ## [Manual do proprietário](https://sg-www-resouce-cdn.gacgroup.com/user_manual/aion-y/%5Bpt-br%5DAION_Y-Owners_Manual-LHD.pdf)
