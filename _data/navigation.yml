@@ -10,6 +10,8 @@ side_menu:
         url: /aion-y/acessorios/
       - title: "Lista de desejos"
         url: /aion-y/desejos/
+      - title: "Dicas"
+        url: /aion-y/Dicas/
       - title: "Funcionalidades e Versões"
         url: /aion-y/funcionalidades/
   - title: "Acessórios comuns"
