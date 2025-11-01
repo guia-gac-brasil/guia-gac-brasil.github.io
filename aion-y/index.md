@@ -5,16 +5,16 @@ title: AION Y
 
 # Guia do GAC AION Y
 
-## [🛒 Acessórios Específicos](acessorios/)
+## [🛒 Acessórios específicos](acessorios/)
 > Lista de acessórios que foram testados e são compatíveis especificamente com o AION Y (tapetes, películas, organizadores, etc.).
 
 ## [👀 Lista de desejos](desejos/)
 > Funcionalidades que não tem no carro, mas que são desejáveis.
 
-## [💡 Dicas e Truques do Modelo](dicas/) 
+## [💡 Dicas e truques do modelo](dicas/) 
 > Dicas que se aplicam ao dia a dia com o AION Y, como configurações da central multimídia, dicas de carregamento e mais.
 
-## [⚙️ Funcionalidades e Versões](funcionalidades/)
+## [⚙️ Funcionalidades e versões](funcionalidades/)
 > Um detalhamento completo das características de cada versão, o que elas têm em comum.
 
 ---
