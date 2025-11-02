@@ -23,7 +23,9 @@ title: Lista de desejos para o AION Y
 * Painéis e relatórios de informações do carro
   * Assim como em carros de outros fabricantes, seria bastante interessante que fosse possível verificar informações gerais do carro, principalmente relacionada ao consumo de energia. As informações do painel são bastante limitadas
 * Permitir instalação de apps Android (loja de aplicativos)
-* Tecla coringa do voltante poder permitir sair e voltar do CarPlay/Android Auto
+* Tecla de função de atalho do voltante (*) com mais opções de funções
+  * Ativar modo de condução favorito (Eco, Normal, Sport ou I-Pedal)
+  * Alternar entre central multimídia e CarPlay/Android Auto
 * Modo de autonomia dinâmico, baseado no consumo dos últimos quilômetros
 
 **Funcionalidades durante o uso da marcha ré**
