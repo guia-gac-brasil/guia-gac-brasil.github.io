@@ -50,8 +50,14 @@ title: Lista de desejos para o AION Y
 **Calibragem dos pneus no painel**
 * Assim como no AION V, seria interessante disponibilizar a informação da pressão dos pneus no painel
 
-**Bug com os espelhos retrovisores**
+**Espelhos retrovisores não abrem (bug)**
 * Ao destravar o carro pela chave, algumas vezes ("aleatoriamente"), os espelhos retrovisores não abrem. Não consegui identificar em qual situação isso ocorre. Porém, ao identificar que os retrovisores não abriram, ao travar e destravar o carro pelo controle, eles abrem normalmente
 
 **Sistema de abertura das portas por aproximação**
 * Uma vez o veículo é fechado manualmente pelo controle, só abra na próxima vez pelo controle. Às vezes você fica perto do carro, ele fica abrindo e fechando as portas inúmeras vezes sem necessidade
+
+**Configurações que não ficam salvas**
+* Algumas configurações, como a sensibilidade do sensor do limpador de para brisas, não ficam salvas. Ao desligar e ligar o carro, o valor volta a ser o padrão
+
+**Horário do painel e da multimídia se alteram sozinhos (bug)**
+* Há relatos de casos onde o horário no painel e o horário exibido na central multimídia ficam diferentes, como que em fusos horário diferentes
