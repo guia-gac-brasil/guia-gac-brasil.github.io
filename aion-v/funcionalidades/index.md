@@ -7,7 +7,7 @@ Funcionalidades e características específicos do AION V vendido no Brasil.
 
 # Funcionalidades e Características do AION V
 
-## CARACTERÍSTICAS PRINCIPAIS
+## Características Principais
 
 |Característica|Elite|
 |----|----|
