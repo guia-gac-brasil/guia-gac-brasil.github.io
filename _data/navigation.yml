@@ -3,6 +3,13 @@ main: []
 side_menu:
   - title: "AION V"
     url: /aion-v/
+    children: 
+      - title: "Lista de desejos"
+        url: /aion-v/desejos/
+      - title: "Dicas"
+        url: /aion-v/dicas/
+      - title: "Funcionalidades e versões"
+        url: /aion-v/funcionalidades/
   - title: "AION Y"
     url: /aion-y/
     children: 
