@@ -7,6 +7,37 @@ Funcionalidades e características específicos do AION Y vendido no Brasil.
 
 # Funcionalidades e Características do AION Y
 
+## Características Principais
+
+| Característica | Elite | Premium |
+|----|----|----|
+|Tipo|BEV|BEV|
+|Comprimento (mm)|4535|4535|
+|Largura (mm)|1870|1870|
+|Altura (mm)|1650|1650|
+|Entre-eixos (mm)|2750|2750|
+|Assentos|5|5|
+|Peso (kg)|1738|1727|
+|Potência - motor elétrico (kW)|150 (204 cv)|150 (204 cv)|
+|Torque - motor elétrico (Nm)|225|225|
+|Aceleração 0-100km/h (s)|8.5|8.5|
+|Velocidade máxima (km/h)|150|150|
+|Tração|Dianteira|Dianteira|
+|Tipo de bateria|Fosfato de ferro lítio|Fosfato de ferro lítio|
+|Capacidade de carregamento em corrente alternada (KW)|6.6|6.6|
+|Capacidade de carregamento em corrente contínua (KW)|75|75|
+|Capacidade da bateria (kWh)|63.2|63.2|
+|Autonomia elétrica (km)|318 (INMETRO)/490 (NEDC)|318 (INMETRO)/490 (NEDC)|
+|Capacidade do porta-malas (l)|361|361|
+|Direção|EPS|EPS|
+|Suspensão dianteira|McPherson independente|McPherson independente|
+|Suspensão traseira|Barra de torção|Barra de torção|
+|Freios dianteiros|Discos ventilados|Discos ventilados|
+|Freios traseiros|Discos sólidos|Discos sólidos|
+|Rodas|18" (alumínio)|17" (alumínio)|
+|Pneus|215/50R18|215/55R17|
+|Tempo necessário para recarga|30-80% (DC 75kW): 55min 30-80% (220V – 20A): 7,2h|30-80% (DC 75kW): 55min 30-80% (220V – 20A): 7,2h|
+
 ## Exterior
 
 | Característica                                           | Elite      | Premium    |
