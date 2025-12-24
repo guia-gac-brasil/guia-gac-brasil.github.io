@@ -13,6 +13,7 @@ A instalação pode ser feita por qualquer pessoa, mas exige um pouco de cuidado
 ## Kit para Estepe 
 
 <img src="../../assets/images/aion-y-estepe.jpeg" alt="Foto de exemplo do uso de estepe no AION Y" style="width:50%;">
+
 * Estepe
   * Estepe Fino Tiggo 5x, Arizzo Aro 17 5x108 Original - Preto
     * Mercado Livre, R$1.299,99 em 29/10/2025 [Link](https://www.mercadolivre.com.br/estepe-fino-tiggo-5x-arizzo-aro-17-5x108-original/up/MLBU765784767)
