@@ -5,10 +5,9 @@ title: AION V
 
 # Guia do GAC AION V
 
-<!--
 ## [🛒 Acessórios específicos](acessorios/)
 > Lista de acessórios que foram testados e são compatíveis especificamente com o AION V (tapetes, películas, organizadores, etc.).
--->
+
 ## [👀 Lista de desejos](desejos/)
 > Funcionalidades que não tem no carro, mas que são desejáveis.
 
