@@ -4,6 +4,8 @@ side_menu:
   - title: "AION V"
     url: /aion-v/
     children: 
+      - title: "Acessórios"
+        url: /aion-v/acessorios/
       - title: "Lista de desejos"
         url: /aion-v/desejos/
       - title: "Dicas"
