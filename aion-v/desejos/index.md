@@ -13,3 +13,6 @@ title: Lista de desejos para o AION V
 * Inclusão de mais aplicativos além do Spotify: YouTube Music, Waze, etc
 * Criação de modo sentinela para as câmeras do carro
 * Melhorar o indicador da seta no painel de instrumentos (menor), muito pequeno e tem a visibilidade facilmente bloqueada pelo volante, dependo da posição de direção
+
+**Correções de bugs ou melhorias em sistemas existentes 
+*Maior redução de velocidade do ADAS em curvas
