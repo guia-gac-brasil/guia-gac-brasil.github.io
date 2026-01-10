@@ -23,6 +23,10 @@ Alguns usuários de veículos elétricos de outras marcas/montadoras afirmam que
 Relatos reais de donos indicam que esse não é o comportamento do Aion V. 
 Programe-se para uma parada muito rápida quando a bateria chegar a 0%/0km e não espere nenhuma autonomia adicional nesse cenário. 
 
+# Autonomia real em trajetos longos
+É possível monitorar a autonomia mais real do carro na estrada, quando se utiliza o mapa da mídia. Você coloca o destino e a mídia vai calculando a autonomia que resta para chegar ao destino mais próxima do real, conforme o seu estilo de direção na estrada, no exato momento da condução.
+A autonomia do painel não é dinâmica. Do mapa da mídia é.
+
 # Manuais
 ## [Manual do proprietário](https://sg-www-resouce-cdn.gacgroup.com/user_manual/aion-v/[pt-br]AION_V-Owners_Manual-LHD.pdf)
 ## [Manual de Garantia e Manutenção](https://br-www-resouce-cdn.gacgroup.com/static/BR/platform/language/common/202506/1749088065709-AIONVManualdegarantiaemanuten%C3%A7%C3%A3o.pdf)
