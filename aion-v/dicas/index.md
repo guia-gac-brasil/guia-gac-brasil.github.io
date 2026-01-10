@@ -18,6 +18,11 @@ Passo a passo para alterar o fuso horário no Aion V através de ajuste de confi
 9. Após sair, retorne para Definições Básicas dentro do menu Definição do Sistema.
 10. Em Fuso Horário, altere para América/São_Paulo.
 
+# Cuidados ao dirigir com bateria baixa
+Alguns usuários de veículos elétricos de outras marcas/montadoras afirmam que seus EVs conduzem por um tempo razoável quando a bateria chega a 0%, com potência reduzida. 
+Relatos reais de donos indicam que esse não é o comportamento do Aion V. 
+Programe-se para uma parada muito rápida quando a bateria chegar a 0%/0km e não espere nenhuma autonomia adicional nesse cenário. 
+
 # Manuais
 ## [Manual do proprietário](https://sg-www-resouce-cdn.gacgroup.com/user_manual/aion-v/[pt-br]AION_V-Owners_Manual-LHD.pdf)
 ## [Manual de Garantia e Manutenção](https://br-www-resouce-cdn.gacgroup.com/static/BR/platform/language/common/202506/1749088065709-AIONVManualdegarantiaemanuten%C3%A7%C3%A3o.pdf)
