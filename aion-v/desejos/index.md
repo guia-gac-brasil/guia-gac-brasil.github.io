@@ -12,7 +12,9 @@ title: Lista de desejos para o AION V
 * Inclusão de gráficos curvas de consumo nos modos Trip A e Trip B
 * Inclusão de mais aplicativos além do Spotify: YouTube Music, Waze, etc
 * Criação de modo sentinela para as câmeras do carro
-* Melhorar o indicador da seta no painel de instrumentos (menor), muito pequeno e tem a visibilidade facilmente bloqueada pelo volante, dependo da posição de direção
+* Melhorar o indicador da seta no painel de instrumentos (menor). A atual é muito pequeno e tem a visibilidade facilmente bloqueada pelo volante, dependo da posição de direção
 
 **Correções de bugs ou melhorias em sistemas existentes**
 * Maior redução de velocidade do ADAS em curvas (ou sensibilidade ajustável)
+* Melhorias no fluxo de ar condicionado e na distribuição de ar frio na cabine
+* Correções nas peças de plástico frontais externas, localizadas nos cantos inferiores do parabrisa. Em vários casos essas peças ficam soltas e seu atrito gera um ruído desconfortável na cabine
