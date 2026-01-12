@@ -24,3 +24,4 @@ title: Lista de desejos para o AION V
 * Correção do bug que faz o carro perder conectividade em alguns casos, fazendo com que o usuário tenha de reiniciar manualmente o módulo de comunicação 
 * Correção do bug que faz o áudio gravado por meio do sistema Apple CarPlay sair distorcido e inteligível, com artefatos de compressão
 * Correção do bug que faz com que a conexão sem fio do Apple CarPlay seja perida em diferentes momentos
+* Correção do bug que faz com que as memórias de posição de assento e os nomes dados para essas posições sejam perdidos em algumas situações
