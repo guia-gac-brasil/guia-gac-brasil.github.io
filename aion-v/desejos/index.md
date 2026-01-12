@@ -22,4 +22,5 @@ title: Lista de desejos para o AION V
 * Correções nas peças de plástico frontais externas, localizadas nos cantos inferiores do parabrisa. Em vários casos essas peças ficam soltas e seu atrito gera um ruído desconfortável na cabine
 * Sincronia das luzes de LED da cabine com a música quando o Android Auto está sendo usado. atualmente o sistema funciona para o player de música nativo do carro e para o Apple CarPlay
 * Correção do bug que faz o carro perder conectividade em alguns casos, fazendo com que o usuário tenha de reiniciar manualmente o módulo de comunicação 
-* Correção do bug que faz o áudio gravado por meio do sistema Apple CarPlay sair distorcido e inteligível, com artefatos de compressão.  
+* Correção do bug que faz o áudio gravado por meio do sistema Apple CarPlay sair distorcido e inteligível, com artefatos de compressão
+* Correção do bug que faz com que a conexão sem fio do Apple CarPlay seja perida em diferentes momentos
