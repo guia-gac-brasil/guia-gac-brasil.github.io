@@ -6,7 +6,7 @@ title: Lista de desejos para o AION V
 # 🔧 Funcionalidades Desejadas (Itens Faltantes)
 
 **Funcionalidades gerais da central multimídia**
-* Assistente de voz em português. Atualmente só funciona utilizando comandos de voz em inglês - a GAC disponibiliza um documento com os comandos e frases a serem utilizados. Não há prazo para disponibilizarem o assistente em português
+* Assistente de voz em português. Atualmente só funciona utilizando comandos de voz em inglês - a GAC disponibiliza um [documento com os comandos e frases a serem utilizados](https://jumpshare.com/share/YCrgX7eCLeYl4qMwOfOX). Não há prazo para disponibilizarem o assistente em português
 * Exibir o percentual de bateria no painel de instrumentos (tela menor)
 * Exibir a temperatura dos pneus no painel de instrumentos (tela menor). Tal informação está disponível no aplicativo do carro
 * Exibir a autonomia em ciclos diferentes do NEDC no painel de instrumentos (tela menor). Idealmente, ter alguma medição dinâmica como em outros fabricantes
