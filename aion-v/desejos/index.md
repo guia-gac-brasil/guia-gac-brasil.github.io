@@ -11,6 +11,7 @@ title: Lista de desejos para o AION V
 * Exibir a temperatura dos pneus no painel de instrumentos (tela menor). Tal informação está disponível no aplicativo do carro
 * Exibir a autonomia em ciclos diferentes do NEDC no painel de instrumentos (tela menor). Idealmente, ter alguma medição dinâmica como em outros fabricantes
 * Inclusão de gráficos curvas de consumo nos modos Trip A e Trip B
+* Inclusão de gráficos e invormações mais detalhadas acerda da contribuição de diferentes sistemas para o consumo (condução, climatização, geladeira, outros sistemas, etc). A exemplo de como os veículos Geely ou a MG fazem.
 * Inclusão de mais aplicativos além do Spotify: YouTube Music, Waze, etc
 * Permitir a navegação simultânea com o aplicativo de GPS nativo do carro e algum aplicativo no smartphone (por exemplo: Google Maps ou Waze)
 * Criação de modo sentinela para as câmeras do carro
