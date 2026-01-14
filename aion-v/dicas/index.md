@@ -23,6 +23,9 @@ Alguns usuários de veículos elétricos de outras marcas/montadoras afirmam que
 Relatos reais de donos indicam que esse não é o comportamento do Aion V. 
 Programe-se para uma parada muito rápida quando a bateria chegar a 0%/0km e não espere nenhuma autonomia adicional nesse cenário. 
 
+# Método para ver o percentual da bateria
+Até o presente momento não existe nenhuma maneira direta de se ver o percentual de bateria restante no Aion V. Um método indireto, que usa a tela de V2L (Vehicle-to-Load), permite que o usuário saiba o percentual de bateria do seu carro. Para ver esse número, acessar os seguintes menus na multimídia do carro: controles do veículo (ícone de um carro) > Consumo de Energia ao Dirigir > Configurações de Potência > Escolher a aba Descarga > no campo Configuração do limite de de descarga é mostrado o percentual atual da bateria, como SOC atual.
+
 # Manuais
 ## [Manual do Proprietário](https://sg-www-resouce-cdn.gacgroup.com/user_manual/aion-v/[pt-br]AION_V-Owners_Manual-LHD.pdf)
 ## [Manual de Garantia e Manutenção](https://br-www-resouce-cdn.gacgroup.com/static/BR/platform/language/common/202506/1749088065709-AIONVManualdegarantiaemanuten%C3%A7%C3%A3o.pdf)
