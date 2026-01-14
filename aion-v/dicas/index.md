@@ -29,4 +29,5 @@ Até o presente momento não existe nenhuma maneira direta de se ver o percentua
 # Manuais
 ## [Manual do Proprietário](https://sg-www-resouce-cdn.gacgroup.com/user_manual/aion-v/[pt-br]AION_V-Owners_Manual-LHD.pdf)
 ## [Manual de Garantia e Manutenção](https://br-www-resouce-cdn.gacgroup.com/static/BR/platform/language/common/202506/1749088065709-AIONVManualdegarantiaemanuten%C3%A7%C3%A3o.pdf)
+## [Plano de Manutenção - Tabela Geral de Preços de Revisão](https://br-www-resouce-cdn.gacgroup.com/BR/%28price%20table%29%20Comunicado%20PV012-25%20-%20tabela%20de%20Pre%C3%A7os%20dos%20Pacotes%20de%20Revis%C3%A3o%20GAC.pdf)
 ## [Lista de Comandos de Voz em Inglês](https://jumpshare.com/share/YCrgX7eCLeYl4qMwOfOX)
