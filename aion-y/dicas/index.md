@@ -27,3 +27,4 @@ Baseado no consumo médio e na bateria de 63,2kWh, é possível estimar a autono
 # Manuais
 ## [Manual do proprietário](https://sg-www-resouce-cdn.gacgroup.com/user_manual/aion-y/%5Bpt-br%5DAION_Y-Owners_Manual-LHD.pdf)
 ## [Manual de Garantia e Manutenção](https://br-www-resouce-cdn.gacgroup.com/static/BR/platform/language/common/202506/1749088090912-AIONYManualdegarantiaemanuten%C3%A7%C3%A3o.pdf)
+## [Plano de Manutenção - Tabela Geral de Preços de Revisão](https://br-www-resouce-cdn.gacgroup.com/BR/%28price%20table%29%20Comunicado%20PV012-25%20-%20tabela%20de%20Pre%C3%A7os%20dos%20Pacotes%20de%20Revis%C3%A3o%20GAC.pdf)

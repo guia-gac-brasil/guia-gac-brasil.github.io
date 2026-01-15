@@ -23,10 +23,11 @@ Alguns usuários de veículos elétricos de outras marcas/montadoras afirmam que
 Relatos reais de donos indicam que esse não é o comportamento do Aion V. 
 Programe-se para uma parada muito rápida quando a bateria chegar a 0%/0km e não espere nenhuma autonomia adicional nesse cenário. 
 
-# Autonomia real em trajetos longos
-É possível monitorar a autonomia mais real do carro na estrada, quando se utiliza o mapa da mídia. Você coloca o destino e a mídia vai calculando a autonomia que resta para chegar ao destino mais próxima do real, conforme o seu estilo de direção na estrada, no exato momento da condução.
-A autonomia do painel não é dinâmica. Do mapa da mídia é.
+# Método para ver o percentual da bateria
+Até o presente momento não existe nenhuma maneira direta de se ver o percentual de bateria restante no Aion V. Um método indireto, que usa a tela de V2L (Vehicle-to-Load), permite que o usuário saiba o percentual de bateria do seu carro. Para ver esse número, acessar os seguintes menus na multimídia do carro: controles do veículo (ícone de um carro) > Consumo de Energia ao Dirigir > Configurações de Potência > Escolher a aba Descarga > no campo Configuração do limite de de descarga é mostrado o percentual atual da bateria, como SOC atual.
 
 # Manuais
-## [Manual do proprietário](https://sg-www-resouce-cdn.gacgroup.com/user_manual/aion-v/[pt-br]AION_V-Owners_Manual-LHD.pdf)
+## [Manual do Proprietário](https://sg-www-resouce-cdn.gacgroup.com/user_manual/aion-v/[pt-br]AION_V-Owners_Manual-LHD.pdf)
 ## [Manual de Garantia e Manutenção](https://br-www-resouce-cdn.gacgroup.com/static/BR/platform/language/common/202506/1749088065709-AIONVManualdegarantiaemanuten%C3%A7%C3%A3o.pdf)
+## [Plano de Manutenção - Tabela Geral de Preços de Revisão](https://br-www-resouce-cdn.gacgroup.com/BR/%28price%20table%29%20Comunicado%20PV012-25%20-%20tabela%20de%20Pre%C3%A7os%20dos%20Pacotes%20de%20Revis%C3%A3o%20GAC.pdf)
+## [Lista de Comandos de Voz em Inglês](https://jumpshare.com/share/YCrgX7eCLeYl4qMwOfOX)
