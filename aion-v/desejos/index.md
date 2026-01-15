@@ -25,6 +25,7 @@ title: Lista de desejos para o AION V
 * Melhorias no fluxo de ar condicionado e na distribuição de ar frio na cabine. Muitos usuários reportam que o sistema de ar condicionado do Aion V não é suficiente para manter o carro em uma temperatura baixa em dias de maior incidência solar
 * Correções nas peças de plástico frontais externas, localizadas nos cantos inferiores do parabrisa. Em vários casos essas peças ficam soltas e seu atrito gera um ruído desconfortável na cabine
 * Sincronia das luzes de LED da cabine com a música quando o Android Auto está sendo usado. Atualmente o sistema funciona apenas para o player de música nativo do carro e para o Apple CarPlay
+* O fechamento do carro pela chave deveria incluir também a cortina do teto solar
 * Correção do bug que faz o carro perder conectividade em alguns casos, fazendo com que o usuário tenha de reiniciar manualmente o módulo de comunicação 
 * Correção do bug que faz o áudio gravado por meio do sistema Apple CarPlay sair distorcido e inteligível, com artefatos de compressão
 * Correção do bug que faz com que a conexão sem fio do Apple CarPlay seja perdida em diferentes momentos
