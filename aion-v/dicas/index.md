@@ -3,6 +3,10 @@ layout: single
 title: Dicas
 ---
 
+# Reset da multimídia
+O Aion V permite que o usuário efetue um reset da multimídiea do carro. Tal procedimento podo ajudar em caso de travamentos ou incionsistências nas telas e nos sistemas auxiliares do veículo. O procedimento não apaga os dados e nem os ajustos do usuário. Para realizar o reset basta pressionar os botões do volante indicados na figura abaixo.
+
+
 # Método para ver o percentual da bateria
 Até o presente momento não existe nenhuma maneira direta de se ver o percentual de bateria restante no Aion V. Um método indireto, que usa a tela de V2L (Vehicle-to-Load), permite que o usuário saiba o percentual de bateria do seu carro. Para ver esse número, acessar os seguintes menus na multimídia do carro: controles do veículo (ícone de um carro) > Consumo de Energia ao Dirigir > Configurações de Potência > Escolher a aba Descarga > no campo Configuração do limite de de descarga é mostrado o percentual atual da bateria, como SOC atual.
 
