@@ -17,6 +17,12 @@ O Aion V utiliza bateria de fosfato de ferro-lítio (LFP), tecnologia durável, 
 # Quedas de percentual de bateria com o veículo parado
 Pequenas quedas de percentual de bateria com o veículo parado podem ocorrer e são consideradas normais. Alguns sistemas do carro seguem operando mesmo com o carro desligado e são responsáveis por um consumo de energia. A geladeira pode ser configurada para se manter ligada mesmo com o carro desligado e isso pode impactar levemente no descarregamento do carro. Além diso, o manual explica que, quando o carro passa muito tempo sem receber cargas completas, o sistema pode realizar auto-testes automáticos, que consomem parte da energia armazenada. Em caso de quedas muito bruscas ou frequentes, recomenda-se que a montadora seja acionada. 
 
+# Reset da Multimídia
+Em caso de problemas na multimídia, é possível efetuar um _reset_ do sistema. Tal procedimento não apaga nenhum dos ajustes salvos pelo usuário e pode ser útil para solucionar eventuais comportamentos anômalos na multimídia ou na conexão com o Android Auto ou com Apple CarPlay. Para reinicilaizar o sistema da multimídia, o usuário deve manter o botão de cima do lado direito do volante (ícone de um telefone) e o botão de baixo do lado direito do volante (ícone de um asterisco). 
+
+![PHOTO-2026-01-13-19-09-05](https://github.com/user-attachments/assets/c8587caa-57b0-447f-9f18-df3c22a72ad4)
+
+
 # Alterar fuso horário
 Passo a passo para alterar o fuso horário no Aion V através de ajuste de configurações no sistema do veículo:
 
