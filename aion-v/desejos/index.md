@@ -5,6 +5,10 @@ title: Lista de desejos para o AION V
 
 # 🔧 Funcionalidades Desejadas (Itens Faltantes)
 
+Esta é uma lista de funcionalidades, correções e melhorias sugeridas por usuários do Aion V no Brasil, com base no uso real do veículo e em comparações com versões internacionais e modelos concorrentes. 
+A GAC Brasil tem se mostrada aberta a essas sugestões e parte dos pedidos já foram atendidos. 
+Os usuários que compilaram tal lista demostram elevada satisfação com o carro e entendem que as melhorias propostas podem melhorar ainda mais a experiência de uso do veículo.
+
 ### Funcionalidades gerais da central multimídia
 
 * Assistente de voz em português. Atualmente só funciona utilizando comandos de voz em inglês - a GAC disponibiliza um [documento com os comandos e frases a serem utilizados](https://jumpshare.com/share/YCrgX7eCLeYl4qMwOfOX). Não há prazo para disponibilizarem o assistente em português.
@@ -23,7 +27,7 @@ title: Lista de desejos para o AION V
 * Adicionar a opção de tema claro para o painel de instrumentos (tela menor), semelhante ao que existe no Aion Y.
 * Incluir na multimídia o manual do proprietário em formato digital acessível diretamente.
 * Incluir histórico de viagens com distância percorrida, consumo em kWh e tempo de viagem, similar às versões chinesas.
-* ~~Disponibilização de modos Trip A e Trip B~~ **ATENDIDO NA ATUALIZAÇÃO DE SETEMBRO.**
+* ~~Disponibilização de modos Trip A e Trip B~~ **ATENDIDO NA ATUALIZAÇÃO DE SETEMBRO DE 2025.**
 
 ---
 
@@ -38,9 +42,9 @@ title: Lista de desejos para o AION V
 * Correção do bug que faz que a conexão sem fio do Apple CarPlay seja perdida em diferentes momentos.
 * Tradução e habilitação do Reconhecimento de Sinais de Trânsito (TSR), como presente nas versões vendidas no exterior.
 * Tradução e habilitação do controle do aviso sonoro de baixa velocidade descrito no manual, permitindo que o usuário ative ou desative conforme desejar.
-* ~~Corrigir falha no menu ADiGO da opção “Manutenção da faixa de emergência”, que se desabilita sozinha após habilitação.~~ **CORRIGIDO NA ATUALIZAÇÃO DE SETEMBRO**
-* ~~Correção do bug que faz o áudio gravado por meio do sistema Apple CarPlay sair distorcido e inteligível, com artefatos de compressão.~~ **CORRIGIDO NA ATUALIZAÇÃO DE OUTUBRO**
-* ~~Correção do bug que faz com que as memórias de posição de assento e os nomes dados para essas posições sejam perdidos em algumas situações.~~ **CORRIGIDO NA ATUALIZAÇÃO DE OUTUBRO**
+* ~~Corrigir falha no menu ADiGO da opção “Manutenção da faixa de emergência”, que se desabilita sozinha após habilitação.~~ **CORRIGIDO NA ATUALIZAÇÃO DE SETEMBRO DE 2025**
+* ~~Correção do bug que faz o áudio gravado por meio do sistema Apple CarPlay sair distorcido e inteligível, com artefatos de compressão.~~ **CORRIGIDO NA ATUALIZAÇÃO DE OUTUBRO DE 2025**
+* ~~Correção do bug que faz com que as memórias de posição de assento e os nomes dados para essas posições sejam perdidos em algumas situações.~~ **CORRIGIDO NA ATUALIZAÇÃO DE OUTUBRO DE 2025**
 
 ---
 
@@ -61,5 +65,5 @@ title: Lista de desejos para o AION V
 * Reavaliar o plano de manutenção para veículos 100% elétricos, considerando intervalos mais compatíveis com o mercado brasileiro de elétricos (por exemplo, 20.000–30.000 km).
 
 ## Versões de firmware lançadas no Brasil
-* Setembro: GACNE_AY5G_AVNT_S104_250911_2258W_R
-* Outubro: GACNE_AY5G_AVNT_S105_251011_0015W_R
+* Setembro de 2025: GACNE_AY5G_AVNT_S104_250911_2258W_R
+* Outubro de 2025: GACNE_AY5G_AVNT_S105_251011_0015W_R
