@@ -53,6 +53,7 @@ Os usuários que compilaram tal lista demostram elevada satisfação com o carro
 * Exibir potência de carregamento em kW no aplicativo.
 * Permitir que o aplicativo funcione sem a presença de rede 4G, via Wi-fi.
 * Permitir fechamento da cortina do teto pelo aplicativo.
+* Permitir a seleção das memórias de posição dos bancos pelo aplicativo.
 * Permitir seleção do perfil do banco do motorista através do aplicativo.
 * Permitir uso do veículo com desbloqueio via aplicativo sem necessidade de chave física no bolso.
 * Atualizar informações de contato na página de OTA, incluindo canal de atendimento ao cliente no Brasil.
