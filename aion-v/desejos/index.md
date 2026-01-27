@@ -5,9 +5,9 @@ title: Lista de desejos para o AION V
 
 # 🔧 Funcionalidades Desejadas (Itens Faltantes)
 
-Esta é uma lista de funcionalidades, correções e melhorias sugeridas por usuários do Aion V no Brasil, com base no uso real do veículo e em comparações com versões internacionais e modelos concorrentes. 
-A GAC Brasil tem se mostrada aberta a essas sugestões e parte dos pedidos já foram atendidos. 
-Os usuários que compilaram tal lista demostram elevada satisfação com o carro e entendem que as melhorias propostas podem melhorar ainda mais a experiência de uso do veículo.
+Esta é uma lista de funcionalidades, correções e melhorias sugeridas por usuários do Aion V no Brasil. 
+A GAC Brasil tem se mostrado aberta a essas sugestões e parte dos pedidos já foram atendidos. 
+Os usuários que compilaram tal lista demonstram elevada satisfação com o carro e entendem que as melhorias propostas podem enriquecer ainda mais a experiência de uso do veículo.
 
 ### Funcionalidades gerais da central multimídia
 
