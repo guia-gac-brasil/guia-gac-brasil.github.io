@@ -66,5 +66,6 @@ Os usuários que compilaram tal lista demonstram elevada satisfação com o carr
 * Reavaliar o plano de manutenção para veículos 100% elétricos, considerando intervalos mais compatíveis com o mercado brasileiro de elétricos (por exemplo, 20.000–30.000 km).
 
 ## Versões de firmware lançadas no Brasil
+* Maio de 2025: GACNE_AY5G_AVNT_S001_250514_2250W_R
 * Setembro de 2025: GACNE_AY5G_AVNT_S104_250911_2258W_R
 * Outubro de 2025: GACNE_AY5G_AVNT_S105_251011_0015W_R
