@@ -21,7 +21,6 @@ A instalação pode ser feita por qualquer pessoa, mas exige um pouco de cuidado
   * Trava Do Parafuso Do Estepe Toyota Yaris Original
     * Mercado Livre, R$67,99 em 29/10/2025 [Link](https://www.mercadolivre.com.br/trava-do-parafuso-do-estepe-toyota-yaris-original/up/MLBU1970256289)
   * Parafuso Trava Borboleta Fixacao Estepe Chery Tiggo 5x / 7
-    * Mercado Livre, R$102,42 em 29/10/2025 [Link](https://www.mercadolivre.com.br/parafuso-trava-borboleta-fixacao-estepe-chery-tiggo-5x--7/up/MLBU1970865896)
 * Chave de roda
   * Chave De Roda 17mm Cromada Com Espátula Gol Corsa Up 207 208
     * Mercado Livre, R$32,24 em 29/10/2025 [Link](https://www.mercadolivre.com.br/chave-de-roda-17mm-cromada-com-espatula-gol-corsa-up-207-208/p/MLB44700631)
