@@ -11,6 +11,9 @@ title: AION V
 ## [👀 Lista de desejos](desejos/)
 > Funcionalidades que não tem no carro, mas que são desejáveis.
 
+## [❔ FAQ | Perguntas e Respostas Frequentes](faq/)
+> Perguntas e respostas frequentes da comunidade de donos do Aion V. 
+
 ## [💡 Dicas e truques do modelo](dicas/) 
 > Dicas que se aplicam ao dia a dia com o AION V, como configurações da central multimídia, dicas de carregamento e mais.
 
