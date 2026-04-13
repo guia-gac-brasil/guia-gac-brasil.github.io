@@ -3,7 +3,7 @@ layout: single
 title: FAQ
 ---
 
-# FAQ (PERGUNTAS MAIS FREQUENTES)  NÃO-OFICIAL DA COMUNIDADE DO AION V
+# PERGUNTAS E RESPOSTAS MAIS FREQUENTES | FAQ NÃO-OFICIAL DA COMUNIDADE DO AION V
 
 # APLICATIVO
 __O meu aplicativo travou, e as informações não condizem com o mapa. Como resolver?__  
