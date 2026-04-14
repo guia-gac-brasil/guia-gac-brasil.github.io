@@ -54,4 +54,6 @@ __Notei um barulho no parabrisas ou no painel interno do carro, o que pode ser?_
 
 __Existe engate para reboque homologado para o Aion V?__  
 *Não existe nenhuma solução atualmente homologada. Alguns usuários adaptaram soluções existentes no mercado ou pediriam construções sob encomenda. Existem dúvidas de vários usuários acerca da manutenção da garantia e da adequação à legislação vigente nessas soluções adptadas. Existe também a informação que um grande produtor nacional de engates está trabalhando para homologar e cocriar uma solução em conjunto com a GAC Brasil. 
+
+
 Esse é um FAQ criado pela comunidade de donos de carros Aion V no Brasil. Em caso de dúvidas ou feedback para a marca, recomenda-se usar o canal oficial de SAC: sac@br.gac-international.com
